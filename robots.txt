@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ultra-gfs-point.goldengrape128.chatgpt.site/sitemap.xml
